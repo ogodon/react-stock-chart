@@ -1,0 +1,13 @@
+# Install
+
+```console
+npm install
+```
+
+# Build and run
+
+```console
+npm start
+```
+
+Then open http://localhost:8080/webpack-dev-server/ in you favorite web browser
